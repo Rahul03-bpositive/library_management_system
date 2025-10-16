@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500298333011",
+    "project_id": "probo-app-firebase",
+    "storage_bucket": "probo-app-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500298333011:android:fa656bf3b9ca1ada7c3fa6",
+        "android_client_info": {
+          "package_name": "com.probo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPWeX9Gpo5oRxf_s7UE-l4fmV9UOyJpzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

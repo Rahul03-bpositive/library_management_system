@@ -1,0 +1,5 @@
+package com.probo.app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
